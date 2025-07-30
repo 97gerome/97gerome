@@ -1,4 +1,3 @@
-![Header](./github-header-image.png)
 ### A little bit about me
 👨‍💻 Full-Stack Developer by trade<br/>
 👨‍🎓 Studied Computer Engineering at Mapúa University
